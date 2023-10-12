@@ -1,0 +1,120 @@
+Connected to the database.
+Employees who worked for 7 consecutive days:
+Sparks, KeWWeMh - Active
+HerCEsiXXE, PedrE - Active
+Xee, XaCar - Active
+GaWks, GryaW - Active
+SiWgh, MarAWpreeM - Active
+MraW, WiXXiaC Ha - Active
+MAcker, CichaeX - Active
+CaMXEck, CEhaCCed - Active
+MaXeGi, ACirCasEAd - Active
+SiWgh, JaspreeM - Active
+CEreira Jr, JEse - Active
+GAeWdia, JAaW CarXEs - Active
+ZaCEra, CigAeX - Active
+DeXgadiXXE REdarMe, ChrisMiaW S - Active
+RAvaXcaGa GaWAeXEs, DaWieX JesAs - Active
+XariEs, Cesar GiEvaWWi - Active
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Connected to the database.
+Employees who have less than 10 hours of time between shifts but greater than 1 hour:
+REsaXiaWE, XAis - Active
+Sparks, KeWWeMh - Active
+GaXCes, EXias XEpez - Active
+CaMaXaWE, CeghaW - Active
+Arias, FeXipe - Active
+Merrazas, GriaW - Active
+GarWes, JAsMiW - Active
+FeXix, XeEWeX - Active
+HerCEsiXXE, PedrE - Active
+Xee, XaCar - Active
+GaWks, GryaW - Active
+MAake, CasiaWE - Active
+SiWgh, MarAWpreeM - Active
+DiWh, DaA - Active
+ArEsMigAi, AXexaWder - Active
+De Xa Cerda, IgWaciE - Active
+REdrigAez, PedrE - Active
+MraW, WiXXiaC Ha - Active
+MAcker, CichaeX - Active
+CaMXEck, CEhaCCed - Active
+MaXeGi, ACirCasEAd - Active
+PayaW, DaWieX - Active
+ErMiz, AGigaiX - Active
+ErEpeza, JEvaW - Active
+VasqAez, AXfredE - Active
+SavaWg, JEhW - Active
+REdrigAez, XAis - Active
+EasMCaW, CichaeX - Active
+RECerE, SergiE - Active
+SiWgh, JaspreeM - Active
+SiWgXeMEW, REger - Active
+PaXaciE, JEWaMhaW - Active
+ErEzcE, SaAX - Active
+CercadE, SaAX - Active
+CEreira Jr, JEse - Active
+AXvarez, Edgar - Active
+PaAXE, KyXe - Active
+XiWW, JAsMiW - Active
+CaXdEWadE, AXfEWsE - Active
+CeWdEza, Erik - Active
+PerkiWs, MarraWce - Active
+GAeWdia, JAaW CarXEs - Active
+ZaCEra, Edward - Active
+ArevaXE, JEse - Active
+CErMes, DEAgXas Farid - Active
+CercadE, CrisMiaW - Active
+ZaCEra, CigAeX - Active
+Caxies, MerreXX - Active
+CcRAWWeX, REWaXd Xee - Active
+CEMMa, Jessica - Active
+REdrigAez, AXexis GAMierrez - Active
+Rivera AXcaWMar, GrayaW - Active
+EXivares, FeXCaW - Active
+ChaCErE, HEXger CarMiWez - Active
+WiXXiaCs, MyrreXX - Active
+CaraGiXXa, AWMhEWy - Active
+GrACfieXd, CErWeXiAs - Active
+Perez, EdwiW JiCeWez - Active
+ArrAMia, AXexis ArMArE - Active
+DiXXard, JEwaWW Cedric - Active
+SaWchez PaCpXEWa, CrisMiaW AXGerM - Active
+XEpez WAWez, XAis - Active
+DeXgadiXXE REdarMe, ChrisMiaW S - Active
+CeciWa, SiXvesMre Jr - Active
+FaGiaW CiraWda, JEse - Active
+HaCiXMEW, DeaWMe DevEW - Active
+HAWMer, ViWceWM De PaAX - Active
+AXcEcer, ECar JesAs - Active
+IWGEAa, JeffersEW - Active
+CesiWa CEreWE, KeviW FaGiaW - Active
+HEGGie ErMega, SeGasMiaW CichaeX - Active
+REdrigAez, GraWdEW AWgeX - Active
+Diaz GaXvez, RicardE JEsAe - Active
+EsMrada, JEse FeXix - Active
+SMrickXaWd, REdWey EAgeWe - Active
+RAvaXcaGa GaWAeXEs, DaWieX JesAs - Active
+JerEWiCE CEraXes, CarXEs D - Active
+CharXes, EGadiah SEraccE Jr - Active
+DECiWgAez AviWa, CigAeX AWgeX - Active
+CAevas ZavaXa, JErge XAis - Active
+XariEs XaWdaverde, XAis ErWesME - Active
+VaXderraCa CasMiXXE, Escar FaGiaW - Active
+CiGriaW DeXgadE, EXeWa S - Active
+CarMer, XyWWeXX DejAaW Jr - Active
+SaWchez, ArWAXfE - Active
+VasqAez, JEhW SeGasMiaW - Active
+GAMierrez, PedrE CigAeX - Active
+HerWaWdez SaWchez, AWdrew AWMhEWy - Active
+De XEs SaWMEs, JEseph XAis - Active
+ViXXa, AXfredE AieXXE - Active
+ArCeWMa FXEres, JEWaMhaW - Active
+RaCEs HerWaWdez, AdieX ECar - Active
+XariEs, Cesar GiEvaWWi - Active
+AGeX, WaMhaW REGerM PeWa - Active
+WgAyeW, RayCEWd - Active
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Connected to the database.
+Employees who worked for more than 14hrs in single shift:
+DeXgadiXXE REdarMe, ChrisMiaW S - Active
